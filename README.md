@@ -32,7 +32,7 @@ He/Him (Ele/Dele)
 I was a competitive swimmer in my youth and later found a passion for Taekwondo, in which I proudly hold a black belt.
 
 <img src="Caricatura.jpg" width="200" alt="Maicon">
-<img src="IMG_5429.jpeg" width="200" alt="Maicon1">
-<img src="IMG-20180117-WA0013.jpeg" width="200" alt="Maicon2">
+<img src="IMG_5429.jpeg" width="300" alt="Maicon1">
+<img src="IMG-20180117-WA0013.jpeg" width="300" alt="Maicon2">
 <img src="tkd2.jpeg" width="200" alt="Maicon3">
 
