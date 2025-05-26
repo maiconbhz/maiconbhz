@@ -33,4 +33,6 @@ I was a competitive swimmer in my youth and later found a passion for Taekwondo,
 
 <img src="Caricatura.jpg" width="200" alt="Maicon">
 <img src="IMG_5429.jpeg" width="200" alt="Maicon1">
-IMG-20180117-WA0013.jpeg
+<img src="IMG-20180117-WA0013.jpeg" width="200" alt="Maicon2">
+<img src="tkd2.jpeg" width="200" alt="Maicon3">
+
