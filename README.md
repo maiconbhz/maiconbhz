@@ -31,4 +31,5 @@ He/Him (Ele/Dele)
 ### ⚡ Fun fact:
 I was a competitive swimmer in my youth and later found a passion for Taekwondo, in which I proudly hold a black belt.
 
-<img src="Caricatura.jpg" width="200" alt="Maicon Rodrigues Albuquerque">
+<img src="Caricatura.jpg" width="200" alt="Maicon">
+<img src="IMG_5429.jpeg" width="200" alt="Maicon1">
