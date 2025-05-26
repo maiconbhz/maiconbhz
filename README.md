@@ -15,7 +15,8 @@ I’m an Associate Professor at the Federal University of Minas Gerais (UFMG), B
 
 ### 💞️ I’m looking to collaborate on:
 - Research in neuroscience and sports performance  
-- Projects involving EEG, tDCS, and cognitive assessment during exercise  
+- Projects involving EEG, tDCS, and cognitive assessment during physical exercise
+- Research in Mental Fatigue topic
 - Machine learning models applied to behavioral and physiological data
 
 ### 📫 How to reach me:
