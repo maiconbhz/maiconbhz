@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Maicon Albuquerque
 
-I’m an Associate Professor at the Federal University of Minas Gerais (UFMG), Brazil, and Director of the UFMG Sports Training Center. I hold a PhD in Molecular Medicine and a Master’s in Sport Sciences, and I am a CNPq Research Productivity Fellow in Physiology and Neuroscience.
+I’m an Associate Professor at the Universidade Federal de Minas Gerais (UFMG), Brazil. Currently, I am director of the UFMG Sports Training Center. I hold a PhD in Molecular Medicine and a Master’s in Sport Sciences, and I am a CNPq Research Productivity Fellow in Physiology and Neuroscience.
 
 ### 👀 I’m interested in:
 - Neuroscience of sports and physical activity  
